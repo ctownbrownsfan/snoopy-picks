@@ -33,7 +33,8 @@ var dreams = [
   "Wash the dishes",
   "my new dream",
   "and another dream",
-  "this is the last one"
+  "this is the last one",
+  "ok, maybe one more"
   ];
 
 // listen for requests :)
